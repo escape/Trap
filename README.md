@@ -1,6 +1,6 @@
-# ZUCK (alpha)
+# Trap
 
-> Indexing algorithmically promoted identities that promise self-improvement, belonging, and purpose — but deliver chronic grievance, financial exploitation, and a pipeline toward extremism. ZUCK stands for (Z)one of (U)nseen (C)ognitive (K)illers — The Identity Trap.
+> The Identity Trap: indexing algorithmically promoted identities that promise self-improvement, belonging, and purpose — but deliver chronic grievance, financial exploitation, and a pipeline toward extremism.
 >
 > **Find yours. Understand the game.**
 
