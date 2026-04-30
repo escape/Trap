@@ -3,6 +3,10 @@
 > The Identity Trap: indexing algorithmically promoted identities that promise self-improvement, belonging, and purpose — but deliver chronic grievance, financial exploitation, and a pipeline toward extremism.
 >
 
+<center>
+  ![−](Pentagrammic_antiprism.png "−")
+</center>
+
 ## Why
 
 Algorithms don't just serve content — they construct identities. A teenager searching for gym advice gets served masculinity content. A lonely young man looking for community finds a world that explains his isolation as someone else's fault. A woman seeking simpler living gets channeled toward ethno-nationalism.
