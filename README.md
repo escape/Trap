@@ -27,11 +27,11 @@ This project makes those patterns visible. It's a directed graph: nodes are iden
 
 | Metric | Count | Status |
 |--------|-------|--------|
-| Identities (nodes) | 52 | Complete — content review ongoing |
-| Clusters | 7 | Stable |
-| Pipeline connections (edges) | 125 | Complete — review ongoing |
+| [Identities (nodes)](DATA/nodes/) | 52 | Complete — content review ongoing |
+| [Clusters](DATA/clusters/) | 7 | Stable |
+| [Pipeline connections (edges)](DATA/edges/) | 125 | Complete — review ongoing |
 | Terminal nodes | 6 | Complete |
-| Deception tactics (vocabulary) | 14 | Stable |
+| [Deception tactics (vocabulary)](DATA/tactics/) | 14 | Stable |
 
 **What's complete:**
 - All 52 identity nodes across 7 clusters, each with hook, cost, tactics, timelines, and intervention
