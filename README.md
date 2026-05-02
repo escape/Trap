@@ -55,11 +55,13 @@ See [CHANGELOG.md](CHANGELOG.md) for version history.
 - **Researchers** — studying algorithmic radicalization, identity fusion, or digital extremism
 - **Developers** — building tools, visualizations, or interventions based on this data
 
-### People: head to thehumanspace.org (alpha)
+### General Public
 
-- **Individuals** — recognizing patterns in their own media consumption or that of friends/family
-- **Educators** — teaching media literacy, critical thinking, or digital citizenship
+- Visit https://www.thehumanspace.org for the upcoming visualizations and wiki for this project.
+
 - **Parents** — understanding what their kids are encountering online
+- **Educators** — teaching media literacy, critical thinking, or digital citizenship
+- **Individuals** — recognizing patterns in their own media consumption or that of friends/family
 
 ## Repository structure
 
