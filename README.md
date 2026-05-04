@@ -23,25 +23,26 @@ This project makes those patterns visible. It's a directed graph: nodes are iden
 
 ## Current status
 
-Core data should be sufficiently complete. Content review, source citations, and JSON export are in progress.
+This project is in an initial detection phase. The current graph is sufficiently developed to test pattern discovery and visibility, but identity coverage, cluster definitions, and edge mappings remain provisional and will continue to grow as new relevant identities are identified.
 
 | Metric | Count | Status |
 |--------|-------|--------|
-| [Identities (nodes)](DATA/nodes/) | 52 | Complete — content review ongoing |
-| [Clusters](DATA/clusters/) | 7 | Stable |
-| [Pipeline connections (edges)](DATA/edges/) | 125 | Complete — review ongoing |
-| Terminal nodes | 6 | Complete |
+| [Identities (nodes)](DATA/nodes/) | 52 | Initial coverage — growing |
+| [Clusters](DATA/clusters/) | 7 | Provisional |
+| [Pipeline connections (edges)](DATA/edges/) | 125 | Initial mapping — review ongoing |
+| Terminal nodes | 6 | In place |
 | [Deception tactics (vocabulary)](DATA/tactics/) | 14 | Stable |
 
-**What's complete:**
+**What's established:**
 
-- All 52 identity nodes across 7 clusters, each with hook, cost, tactics, timelines, and intervention
-- 125 directed edges with strength and mechanism
+- A working graph structure with 52 identity nodes, each capturing hook, cost, tactics, timelines, and intervention
+- 125 directed edges representing escalation pathways with strength and mechanism
 - Schema covering nodes, edges, clusters, tag vocabulary, and tactics vocabulary
-- `trap_depth` scale on all terminal nodes
+- `trap_depth` scale on terminal nodes
 
-**What's next:**
+**What is still evolving:**
 
+- Identity and cluster coverage as new relevant profiles are added
 - Per-node source citations (`evidence_sources`)
 - JSON export for visualization and content ops integration
 - `methodology.md` and `sources.md`
