@@ -3,8 +3,6 @@
 > The Identity Trap: indexing algorithmically promoted identities that promise self-improvement, belonging, and purpose — but deliver chronic grievance, financial exploitation, and a pipeline toward extremism.
 >
 
-![thehumanspace-logo-draft-v0.2.jpg](thehumanspace-logo-draft-v0.2.jpg)
-
 ## Early preview
 
 🟡 **v0.1 — first public release**
@@ -61,6 +59,8 @@ See [CHANGELOG.md](CHANGELOG.md) for version history.
 - **Developers** — building tools, visualizations, or interventions based on this data
 
 ### General Public
+
+![thehumanspace-logo-draft-v0.2.jpg](thehumanspace-logo-draft-v0.2.jpg)
 
 - Visit https://www.thehumanspace.org for the upcoming visualizations and wiki for this project.
 
